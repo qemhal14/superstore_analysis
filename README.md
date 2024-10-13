@@ -9,8 +9,8 @@ This project focuses on analyzing and exploring sales data from a retail store u
 - **SQL Query Practice**: Includes queries that answer business-related questions like which category contributes the most to sales or which region has the highest average profit.
 - **Performance Optimization**: Identifies areas for improving profitability and optimizing shipping modes.
 
-## Dashboard
+## Power BI Dashboard
 
-![dashboard](./images/dashboard.jpg)
+![dashboard](./dashboard.jpg)
 
 
